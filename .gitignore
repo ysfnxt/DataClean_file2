@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+tests/
+new_file*
+*.csv
